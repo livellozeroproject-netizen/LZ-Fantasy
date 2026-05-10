@@ -1,0 +1,2 @@
+# LZ-Fantasy
+Fantasy LZ
